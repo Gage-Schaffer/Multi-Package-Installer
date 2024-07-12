@@ -25,6 +25,7 @@ for this project".
 - This *should* be portable to *nix systems, but I have not tested it.
 
 ## Future Plans?
+- [ ] Add venv detection, and add ability to create a venv if not needed
 - [ ] Add a few more functionalities, such as package deletion or reading from a file
 - [ ] Add a verbose mode
 - [ ] Prettify the text during runtime
